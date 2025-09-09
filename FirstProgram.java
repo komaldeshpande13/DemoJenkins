@@ -15,8 +15,9 @@ public static void main(String[] args) {
 	String name="komal";
 	
 	System.out.println("Welcome to Testleaf");
-	System.out.println(nam);
+	System.out.println(name);
 }
 }
+
 
 
